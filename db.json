@@ -1,1 +1,4 @@
-{"toys":[{"name":"Maya","type":"teddy"},{"age":"12","type":"rabbit"},{"speed":"100","type":"horse"}]}
+{
+  "toys":[{"name":"Maya","type":"teddy"},{"age":"12","type":"rabbit"},{"speed":"100","type":"horse"}],
+  "owners" :[{"name":"Roudy", "preference":"horse"}, {"name":"Maya", "preference":"teddy"}, {"name":"Marwan", "preference":"rabbit"}]
+}
